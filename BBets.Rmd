@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Sarah Medina"
+author: "Sarah E. Medina"
 output: 
   html_document:
     number_sections: true
