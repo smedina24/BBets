@@ -103,3 +103,5 @@ The number of people in a class that would make the 2:1 odds fair odds is betwee
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+Using the re sampling method we kept changing the variable until we reached the appropriate results. Brownlow would have to change his odds to around 4.42 in order to center his profits around zero. His classs size should be between 28 and 29 for the profits to be centerd at zero.
+
