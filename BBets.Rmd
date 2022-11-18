@@ -78,6 +78,18 @@ After trying out multiple numbers the fair odds for Brownlow are 4.42. When we u
 
 # What size of class makes the 2:1 bet fair?  Use manipulation of number of Students to tune Brownlows earnings to zero.
 
+```{r}
+RTeach <- array(1:200)
+for(i in 1:200){
+  RTeach[i] = BrLw(numClass = 28.9 )
+}
+options(digits=1)
+histogram(RTeach)
+favstats(RTeach)
+```
+
+The number of people in a class that would make the 2:1 odds fair odds is between 28 and 29. When the number of students is 28 Brownlows profits are centered around zero. The average amount of students was 28.9. This means most of Brownlows classes consisted of 29 students and the other classes were of 28 students.
+
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
 
